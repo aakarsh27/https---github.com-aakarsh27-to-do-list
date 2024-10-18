@@ -1,1 +1,1 @@
-this repository is for the react projects
+this repository is for the react projects i have learned
